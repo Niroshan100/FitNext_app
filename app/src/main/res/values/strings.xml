@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FitNext</string>
+
+    <string name="don_t_worry">
+        Don\'t worry if you have trouble determining your goals, We can help you determine your goals and track your goals
+    </string>
+
+    <string name="let_s_keep_">
+        Let\'s keep burning, to achive yours goals, it hurts only temporarily, if you give up now you will be in pain forever
+    </string>
+
+    <string name="improve_the">
+        Improve the quality of your sleep with us, good quality sleep can bring a good mood in the morning
+    </string>
+
+    <string name="by_continui">
+        By continuing you accept our Privacy Policy and Term of Use
+    </string>
+
+    <string-array name="gender_d">
+        <item>
+
+        </item>
+        <item>
+            Male
+        </item>
+        <item>
+            Female
+        </item>
+    </string-array>
+
+    <string name="hey_it_s_ti">
+        Hey, it\'s time for lunch
+    </string>
+
+    <string name="about_1_min">
+        About 1 minutes ago
+    </string>
+</resources>
